@@ -67,11 +67,3 @@ Linuxの優れたUSBオーディオサポートを活かし、ALSAの最適化�
 
 - `config/alsa/`: ALSA関連の設定ファイル
 - `config/eq/`: イコライザー設定ファイル
-
-## ライセンス
-
-このプロジェクトはMITライセンスの下で公開されています。
-
-## 作者
-
-[@takaeda](https://github.com/takaeda)
